@@ -1,123 +1,76 @@
 [
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/-S1jPKEdMB98z2CxKjBpMGQ0TaEfqZKWtAn43DVAxOPYbL7T6rVsy-QTFBH-usFSHFzm=s180",
-		"appName": "Hill Photo Frame",
-		"appDescription": "Hill & Mountain Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.hill.photosframs"
-	},
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/vt8jBWgxZjERjERPYRluuX54GAnKSsl3arGu7L6k-7KVAeWa5j6sD8g8BNCXBimu-cuO=s180",
-		"appName": "রমজান ফটো ফ্রেম ২০২২",
+		"appName": "Ramadan Photo Frame 2022",
 		"appDescription": "Ramadan & Eid Photo Frame 2022",
 		"url": "https://play.google.com/store/apps/details?id=com.ramadanmubaraka.photframs"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/I15u72A9EUx58KaZX0vLeslSww90h3BOKJmgbNoDNrzRl-xx6xNAP_ASdnGZTf95KEE=s180",
-		"appName": "Ramadan Photo Frame 2022",
-		"appDescription": "Ramadan & Eid Photo Frame 2022",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadanmubarak.photframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/I15u72A9EUx58KaZX0vLeslSww90h3BOKJmgbNoDNrzRl-xx6xNAP_ASdnGZTf95KEE=s180",
-		"appName": "রমজান ফটো ফ্রেম ২০২২",
-		"appDescription": "Ramadan & Eid Photo Frame 2022",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadanmubarak.photframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/pvQB0RbPbMXmIRT6OA2Qg2WXBc9IcT2b9fsrQ0_5pjhb3O8-4AEt2lCygfZZEIbDtQ=s180-rw",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "পহেলা বৈশাখ বাংলা নববর্ষ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.nobo.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/vpi0_VY1ymm_pqRXmWG0DfYle3aMHJIdlqvctvEiOARuemMXhLydybTIbtptyu5xjCw=s180-rw",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "পহেলা বৈশাখ বাংলা নববর্ষ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.boishakh.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/vpi0_VY1ymm_pqRXmWG0DfYle3aMHJIdlqvctvEiOARuemMXhLydybTIbtptyu5xjCw=s180-rw",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "পহেলা বৈশাখ বাংলা নববর্ষ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.boishakh.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/vpi0_VY1ymm_pqRXmWG0DfYle3aMHJIdlqvctvEiOARuemMXhLydybTIbtptyu5xjCw=s180-rw",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "পহেলা বৈশাখ বাংলা নববর্ষ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.boishakh.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/vpi0_VY1ymm_pqRXmWG0DfYle3aMHJIdlqvctvEiOARuemMXhLydybTIbtptyu5xjCw=s180-rw",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "পহেলা বৈশাখ বাংলা নববর্ষ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.boishakh.photo_frame"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/6A_1sujZmW4LQhj-2xL3bN95JJLSPl_Hs99r6a8mpVhpQ8p0G6KhEGNMg-3HAjuzQlw=s180-rw",
-		"appName": "ঈদ ফটো ফ্রেম ২০২২",
+		"appName": "Eid Photo Frame 2022",
 		"appDescription": "Eid Mubarak Photo Frame 2022",
 		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/Xdayp2nFgszEdBvEl8zB9PQBS_uLgSUopS0kNwZJ1dndTG6p41iFbEPLGjuLv6DrSQ=s180-rw",
-		"appName": "ঈদ ফটো ফ্রেম ২০২২",
-		"appDescription": "Eid Mubarak Photo Frame 2022",
-		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/6A_1sujZmW4LQhj-2xL3bN95JJLSPl_Hs99r6a8mpVhpQ8p0G6KhEGNMg-3HAjuzQlw=s180-rw",
-		"appName": "ঈদ ফটো ফ্রেম ২০২২",
-		"appDescription": "Eid Mubarak Photo Frame 2022",
-		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/Xdayp2nFgszEdBvEl8zB9PQBS_uLgSUopS0kNwZJ1dndTG6p41iFbEPLGjuLv6DrSQ=s180-rw",
-		"appName": "ঈদ ফটো ফ্রেম ২০২২",
-		"appDescription": "Eid Mubarak Photo Frame 2022",
-		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/Xdayp2nFgszEdBvEl8zB9PQBS_uLgSUopS0kNwZJ1dndTG6p41iFbEPLGjuLv6DrSQ=s180-rw",
+		"appIcon": "https://play-lh.googleusercontent.com/bmjgkuOLydtMIVivhKIa2tLu2I_lsu-rgu7Phc3yVAcMwbZaaynXAP9oDzfywiutfL8=s180",
 		"appName": "Eid Photo Frame 2022",
 		"appDescription": "Eid Mubarak Photo Frame 2022",
 		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/6A_1sujZmW4LQhj-2xL3bN95JJLSPl_Hs99r6a8mpVhpQ8p0G6KhEGNMg-3HAjuzQlw=s180-rw",
+		"appName": "Eid Photo Frame 2022",
+		"appDescription": "Eid Mubarak Photo Frame 2022",
+		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/bmjgkuOLydtMIVivhKIa2tLu2I_lsu-rgu7Phc3yVAcMwbZaaynXAP9oDzfywiutfL8=s180",
+		"appName": "Eid Photo Frame 2022",
+		"appDescription": "Eid Mubarak Photo Frame 2022",
+		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/bmjgkuOLydtMIVivhKIa2tLu2I_lsu-rgu7Phc3yVAcMwbZaaynXAP9oDzfywiutfL8=s180",
+		"appName": "Eid Photo Frame 2022",
+		"appDescription": "Eid Mubarak Photo Frame 2022",
+		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/bmjgkuOLydtMIVivhKIa2tLu2I_lsu-rgu7Phc3yVAcMwbZaaynXAP9oDzfywiutfL8=s180",
+		"appName": "ঈদ ফটো ফ্রেম ২০২২",
+		"appDescription": "Eid Mubarak Photo Frame 2022",
+		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/bmjgkuOLydtMIVivhKIa2tLu2I_lsu-rgu7Phc3yVAcMwbZaaynXAP9oDzfywiutfL8=s180",
+		"appName": "ঈদ ফটো ফ্রেম ২০২২",
+		"appDescription": "Eid Mubarak Photo Frame 2022",
+		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/6A_1sujZmW4LQhj-2xL3bN95JJLSPl_Hs99r6a8mpVhpQ8p0G6KhEGNMg-3HAjuzQlw=s180-rw",
+		"appName": "ঈদ ফটো ফ্রেম ২০২২",
+		"appDescription": "Eid Mubarak Photo Frame 2022",
+		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/6A_1sujZmW4LQhj-2xL3bN95JJLSPl_Hs99r6a8mpVhpQ8p0G6KhEGNMg-3HAjuzQlw=s180-rw",
+		"appName": "ঈদ ফটো ফ্রেম ২০২২",
+		"appDescription": "Eid Mubarak Photo Frame 2022",
+		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/6A_1sujZmW4LQhj-2xL3bN95JJLSPl_Hs99r6a8mpVhpQ8p0G6KhEGNMg-3HAjuzQlw=s180-rw",
+		"appName": "ঈদ ফটো ফ্রেম ২০২২",
+		"appDescription": "Eid Mubarak Photo Frame 2022",
+		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/sCD9wDUfg07J2bcLYRmL302lvO0WoT8E0rIIldatoOKK3jXaZJ1oFotKWl0g0lJ-L9s=s180-rw",
 		"appName": "বন্ধু ফটো ফ্রেম",
 		"appDescription": "Friendship Day Photo Frame 2022",
 		"url": "https://play.google.com/store/apps/details?id=com.friendshipday.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/99rWoxrdwRxgU8mYCrznz1UrmOdXUgan9-4BMzjPZ-J_5ThnU6qx0s8UuUXQ87wTEFM=s180-rw",
-		"appName": "Love Photo Frames",
-		"appDescription": "Romantic Love Photo Frames",
-		"url": "https://play.google.com/store/apps/details?id=com.loveromancee.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/8-8NflikD1ShrGf-Eyf1z7VfcRaDT7oEByhn2Li0fcIR6Qn4NZPnQZu11N5P5bWKZA=s180-rw",
-		"appName": "Mobile Selfie Photo Frame",
-		"appDescription": "Make your photo more creative",
-		"url": "https://play.google.com/store/apps/details?id=com.selfies.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/upAnMoPCIg1hGiFUE6HvfvYrdaJ--HgSrdb9JLjr3zzIr7ylbVtn90o7xA4pEYOayqU=s180",
-		"appName": "Love Calculator 2022",
-		"appDescription": "Love Percentage Calculator 2022",
-		"url": "https://play.google.com/store/apps/details?id=com.smdevelopment.lovecalculator"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/-S1jPKEdMB98z2CxKjBpMGQ0TaEfqZKWtAn43DVAxOPYbL7T6rVsy-QTFBH-usFSHFzm=s180",
-		"appName": "Hill Photo Frame",
-		"appDescription": "Hill & Mountain Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.hill.photosframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/ZpSe4Xz7bjoSvgOjEhU9CBgAqAvt2eBpr67lbqs1iVvQt_JOdizTME0qjAMXxMTbTL8-=s180",
-		"appName": "আওয়ামী লীগ ফটো ফ্রেম",
-		"appDescription": "আওয়ামী লীগ ও জয় বাংলার ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.awamileague.photoframe"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/rnNYcBECMTin88H9QLo8nl45aEn9riek8oj04c3v-6tX5zpMoi4RnN7DfGD0c1Degg4=s180",
