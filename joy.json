@@ -6,16 +6,40 @@
 		"url": "https://play.google.com/store/apps/details?id=com.sunset.photo_frame"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/FXFYllJFyIsYY1Lmorv6_x1YnLNVXMVNpfYmfLSQOZSH7GxKEWgnWHPoCdtjHP7UM2ou=s180",
-		"appName": "USA Independence Day Frame",
-		"appDescription": "4th July USA Independence Day Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.usadayindependence.photoframes"
+		"appIcon": "https://play-lh.googleusercontent.com/5Lbpb1kcR2M1B9bHVjDBI9jkCkqjxBoPH1VcIZIvrNfncDDfZimPMKxxiR9BV_tcuQM=s180-rw",
+		"appName": "জয় বাংলা ফটো ফ্রেম",
+		"appDescription": "প্রোফাইলে জয় বাংলার ফটো ফ্রেম যুক্ত করুন।",
+		"url": "https://play.google.com/store/apps/details?id=com.joyerbangla.photoframes"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/WYN9V7hzVTUKj4ft7QZD4YygR7-VUcSGEy9VYrUTKAze5s7yNIontjDu54U4AHvg388Q=s180",
+		"appIcon": "https://play-lh.googleusercontent.com/nuL3-QC306PzC7H-LuTP7VIw7IfKr3Lstnw6fcv-8cUxlZzwyH51U9cDsD_QVg1k3v0=s180-rw",
 		"appName": "Love Photo Frames",
 		"appDescription": "Love photo frames for your romantic photos",
-		"url": "https://play.google.com/store/apps/details?id=com.loveromances.photoframes"
+		"url": "https://play.google.com/store/apps/details?id=com.lovercouple.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/1YKv_jMgoZdqNRGGRf41GfJ75gFjufysq6GglatwDday0QO3gtVc2ab6obLWqdXSNA=s180-rw",
+		"appName": "Birthday Photo Frame",
+		"appDescription": "Happy Birthday Wishing Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.happybirthdayywishing.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/5Lbpb1kcR2M1B9bHVjDBI9jkCkqjxBoPH1VcIZIvrNfncDDfZimPMKxxiR9BV_tcuQM=s180-rw",
+		"appName": "জয় বাংলা ফটো ফ্রেম",
+		"appDescription": "প্রোফাইলে জয় বাংলার ফটো ফ্রেম যুক্ত করুন।",
+		"url": "https://play.google.com/store/apps/details?id=com.joyerbangla.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/nuL3-QC306PzC7H-LuTP7VIw7IfKr3Lstnw6fcv-8cUxlZzwyH51U9cDsD_QVg1k3v0=s180-rw",
+		"appName": "Love Photo Frames",
+		"appDescription": "Love photo frames for your romantic photos",
+		"url": "https://play.google.com/store/apps/details?id=com.lovercouple.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/1YKv_jMgoZdqNRGGRf41GfJ75gFjufysq6GglatwDday0QO3gtVc2ab6obLWqdXSNA=s180-rw",
+		"appName": "Birthday Photo Frame",
+		"appDescription": "Happy Birthday Wishing Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.happybirthdayywishing.photoframes"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/-S1jPKEdMB98z2CxKjBpMGQ0TaEfqZKWtAn43DVAxOPYbL7T6rVsy-QTFBH-usFSHFzm=s180",
@@ -66,12 +90,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.nature.photo_frame"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/3bIMSFvci3h_5IO6ZQ009gj5Z2umk3VTLQuZzgv1LjodHP2tRVFr0Ux6Xhh576z2dsB5=s180-rw",
-		"appName": "Sunset Photo Frames",
-		"appDescription": "Sunset & Evening Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.sunset.photo_frame"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/aAhy5oB1E164ff-OfPMc9nqR4fl0YRQZXRmRncxIOS5Dr4QLz3nXcgIVVZxYqKHnuU8=s180-rw",
 		"appName": "Rose Photo Frame",
 		"appDescription": "Rose Flower Photo Frame",
@@ -102,12 +120,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.book.photo_frame"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/jRCJPt6UjGI64XHxC2C82jlueUtViaRQxsKgaW39IZN6w_lK8BVMusk0t7IqQ_Xsl0nZ=s180",
-		"appName": "Birthday Photo Frame",
-		"appDescription": "Happy Birthday Wishing Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.happybirthday"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/Lpo0Cw0lCBCz5nXUAzYIAp-8bOBcDNYzgwhslrjZy-OaPnawhxuhJ5jko4FckdeuPmrj=s180-rw",
 		"appName": "Beach Photo Frames",
 		"appDescription": "World famous beautiful beach photo collections",
@@ -125,13 +137,6 @@
 		"appDescription": "Garden & Green Nature photo editor",
 		"url": "https://play.google.com/store/apps/details?id=com.garden.photo_frame"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/nP0wm8xQMxW4kamojrhJgcT7w8iH_2zO85WzP2iyT1hbG5IgeGdbEncPl5YC3nX9yCo=s180",
-		"appName": "3D Photo Frame",
-		"appDescription": "3D Photo Effect Editor App.",
-		"url": "https://play.google.com/store/apps/details?id=com.photo3dframe.photo_editor"
-	},
-	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/LCcEGcszrJQ3a6yesLaPLlVDC0z6n2D8LlD_ov6OCwVB7t6kCubYPmBErQuA1b0eDMo=s180-rw",
 		"appName": "Hoarding Photo Frames",
