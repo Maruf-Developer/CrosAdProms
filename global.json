@@ -1,10 +1,5 @@
 [
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/3bIMSFvci3h_5IO6ZQ009gj5Z2umk3VTLQuZzgv1LjodHP2tRVFr0Ux6Xhh576z2dsB5=s180-rw",
-		"appName": "Sunset Photo Frames",
-		"appDescription": "Sunset & Evening Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.sunset.photo_frame"
-	},
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/yB9_RXlYJCrG3IJrOB4sQgva29E0MqdgvG-ug7vPHd_YJZwLjNlalsQRXbCb0NDFao8=s180",
 		"appName": "Gandhi Jayanti Photo Frame",
@@ -16,18 +11,6 @@
 		"appName": "Gandhi Jayanti Photo Frame",
 		"appDescription": "Gandhi Jayanti 2022 Photo Frame",
 		"url": "https://play.google.com/store/apps/details?id=com.gandhijijayanti.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/MIznAc3Dyh1ybLDvSJynf_v4DEH9DO5TC36icJlxCVJ0qDB8lMLXITy6qckYEWuzpxE=s180",
-		"appName": "PTI Photo Frame",
-		"appDescription": "Pakistan Tehreek-e-Insaf photo frame",
-		"url": "https://play.google.com/store/apps/details?id=com.ptiparty.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/MIznAc3Dyh1ybLDvSJynf_v4DEH9DO5TC36icJlxCVJ0qDB8lMLXITy6qckYEWuzpxE=s180",
-		"appName": "PTI Photo Frame",
-		"appDescription": "Pakistan Tehreek-e-Insaf photo frame",
-		"url": "https://play.google.com/store/apps/details?id=com.ptiparty.photoframes"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/DMGOQMkIi12J9x9oj_X4eKpE9DJwX_gbcZuUEDc3NvE6dP0WFcQF-JXh4PBQ3aoZJg=s180",
@@ -66,12 +49,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.loveromances.photoframes"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/vicOezHY3_BTc8aeoXThEWLDgVFa-Fd_7kf7sNmgnwkSEt2vOKOngjSnC1q1TicGDg=s180",
-		"appName": "আওয়ামী লীগ ফটো ফ্রেম",
-		"appDescription": "প্রোফাইলে জয় বাংলার ফটো ফ্রেম যুক্ত করুন।",
-		"url": "https://play.google.com/store/apps/details?id=com.awamileague.photoframes"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/-S1jPKEdMB98z2CxKjBpMGQ0TaEfqZKWtAn43DVAxOPYbL7T6rVsy-QTFBH-usFSHFzm=s180",
 		"appName": "Hill Photo Frame",
 		"appDescription": "Hill & Mountain Photo Editor",
@@ -82,18 +59,6 @@
 		"appName": "Hill Photo Frame",
 		"appDescription": "Hill & Mountain Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.hillside.photosframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/8-8NflikD1ShrGf-Eyf1z7VfcRaDT7oEByhn2Li0fcIR6Qn4NZPnQZu11N5P5bWKZA=s180-rw",
-		"appName": "Mobile Photo Frame",
-		"appDescription": "Mobile & Selfie Frame - Make your photo creative",
-		"url": "https://play.google.com/store/apps/details?id=com.selfiemobile.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/8-8NflikD1ShrGf-Eyf1z7VfcRaDT7oEByhn2Li0fcIR6Qn4NZPnQZu11N5P5bWKZA=s180-rw",
-		"appName": "Mobile Photo Frame",
-		"appDescription": "Mobile & Selfie Frame - Make your photo creative",
-		"url": "https://play.google.com/store/apps/details?id=com.selfiemobile.photoframes"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/sCD9wDUfg07J2bcLYRmL302lvO0WoT8E0rIIldatoOKK3jXaZJ1oFotKWl0g0lJ-L9s=s180-rw",
@@ -132,12 +97,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.waterfall.photo_frame"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/ehmR_jR_NKrS6EKDcgvEEKgzxTDpG6S_pSqZEu84k4khCl2C5iis1YmEaInUxjUvszSD=s180",
-		"appName": "Nature Photo Frames",
-		"appDescription": "Beautify your pictures with nature photo frames",
-		"url": "https://play.google.com/store/apps/details?id=com.nature.photo_frame"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/aAhy5oB1E164ff-OfPMc9nqR4fl0YRQZXRmRncxIOS5Dr4QLz3nXcgIVVZxYqKHnuU8=s180-rw",
 		"appName": "Rose Photo Frame",
 		"appDescription": "Rose Flower Photo Frame",
@@ -154,12 +113,6 @@
 		"appName": "Good Night Photo Frame",
 		"appDescription": "Good Night Wishing Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.goodnight.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/5LtizgWViz-GanehHpnYPa_kcFJLNKZrhMPsoBQVRBHP0Ggztx9b55tROvSvCVj7DpI=s180-rw",
-		"appName": "Bubble Photo Frame",
-		"appDescription": "Water Bubble Free Photo Frame App",
-		"url": "https://play.google.com/store/apps/details?id=com.bubble.photo_frame"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/Ip7bkrce5_Dt7GnlGQTKcSGik3ihd31ZSNHkQ-BbI6jLNQ2tea6uBbPip2WjZpuYN1A=s180-rw",
@@ -186,29 +139,12 @@
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.happybirthday"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/Lpo0Cw0lCBCz5nXUAzYIAp-8bOBcDNYzgwhslrjZy-OaPnawhxuhJ5jko4FckdeuPmrj=s180-rw",
-		"appName": "Beach Photo Frames",
-		"appDescription": "World famous beautiful beach photo collections",
-		"url": "https://play.google.com/store/apps/details?id=com.seabeach.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/HbbpAnZMOhRmqwtwHaYVd-LQH7xrq-XhCXJCqOWcStuni7oV8hxEnn9U_oZGbHanXw=s180-rw",
-		"appName": "Snowfall Photo Frame",
-		"appDescription": "Winter & Snowfall Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.snowfall.photo_frame"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/g9tDJwMna7yJjK51zlWmR1nLPQHh0RmUOrod_1CkEva6oyR9vXIcTVRSV0ovmFh2XVoC=s180",
 		"appName": "Garden Photo Frame",
 		"appDescription": "Garden & Green Nature photo editor",
 		"url": "https://play.google.com/store/apps/details?id=com.garden.photo_frame"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/nP0wm8xQMxW4kamojrhJgcT7w8iH_2zO85WzP2iyT1hbG5IgeGdbEncPl5YC3nX9yCo=s180",
-		"appName": "3D Photo Frame",
-		"appDescription": "3D Photo Effect Editor App.",
-		"url": "https://play.google.com/store/apps/details?id=com.photo3dframe.photo_editor"
-	},
+	
 	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/LCcEGcszrJQ3a6yesLaPLlVDC0z6n2D8LlD_ov6OCwVB7t6kCubYPmBErQuA1b0eDMo=s180-rw",
