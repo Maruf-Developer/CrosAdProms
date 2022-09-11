@@ -1,4 +1,6 @@
 [
+	
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/WYN9V7hzVTUKj4ft7QZD4YygR7-VUcSGEy9VYrUTKAze5s7yNIontjDu54U4AHvg388Q=s180",
 		"appName": "Love Photo Frames",
@@ -12,12 +14,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.loveromances.photoframes"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/vicOezHY3_BTc8aeoXThEWLDgVFa-Fd_7kf7sNmgnwkSEt2vOKOngjSnC1q1TicGDg=s180",
-		"appName": "আওয়ামী লীগ ফটো ফ্রেম",
-		"appDescription": "প্রোফাইলে জয় বাংলার ফটো ফ্রেম যুক্ত করুন।",
-		"url": "https://play.google.com/store/apps/details?id=com.awamileague.photoframes"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/-S1jPKEdMB98z2CxKjBpMGQ0TaEfqZKWtAn43DVAxOPYbL7T6rVsy-QTFBH-usFSHFzm=s180",
 		"appName": "Hill Photo Frame",
 		"appDescription": "Hill & Mountain Photo Editor",
@@ -28,22 +24,10 @@
 		"appName": "Hill Photo Frame",
 		"appDescription": "Hill & Mountain Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.hillside.photosframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/8-8NflikD1ShrGf-Eyf1z7VfcRaDT7oEByhn2Li0fcIR6Qn4NZPnQZu11N5P5bWKZA=s180-rw",
-		"appName": "Mobile Photo Frame",
-		"appDescription": "Mobile & Selfie Frame - Make your photo creative",
-		"url": "https://play.google.com/store/apps/details?id=com.selfiemobile.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/8-8NflikD1ShrGf-Eyf1z7VfcRaDT7oEByhn2Li0fcIR6Qn4NZPnQZu11N5P5bWKZA=s180-rw",
-		"appName": "Mobile Photo Frame",
-		"appDescription": "Mobile & Selfie Frame - Make your photo creative",
-		"url": "https://play.google.com/store/apps/details?id=com.selfiemobile.photoframes"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/sCD9wDUfg07J2bcLYRmL302lvO0WoT8E0rIIldatoOKK3jXaZJ1oFotKWl0g0lJ-L9s=s180-rw",
-		"appName": "বন্ধু ফটো ফ্রেম",
+		"appName": "Friendship Photo Frame",
 		"appDescription": "Friendship Day Photo Frame 2022",
 		"url": "https://play.google.com/store/apps/details?id=com.friendshipday.photo_frame"
 	},
@@ -60,40 +44,22 @@
 		"url": "https://play.google.com/store/apps/details?id=com.water3D.photo_frame"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/CxUH_tyD1P5g7QaKAJWhdtPp7aVikOwDQUCD2tdKaEacDjGF0bMgi-JX3MQwfqV2gA=s180-rw",
-		"appName": "Wedding Photo Frames",
-		"appDescription": "Wedding & Anniversary Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.weddinganniversary.photo_frame"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/CJVSLLHQSop6j1cBwYx5Yt0Bu8gCWseZHDF2HU_X_2wdNogzNMgP6Th5VzXkDOqQPE0=s180-rw",
 		"appName": "Jungle Photo Frame",
 		"appDescription": "Jungle & Wild Animal Photo Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.jungle_animal.photo_frame"
 	},
 	{
+		"appIcon": "https://play-lh.googleusercontent.com/CxUH_tyD1P5g7QaKAJWhdtPp7aVikOwDQUCD2tdKaEacDjGF0bMgi-JX3MQwfqV2gA=s180-rw",
+		"appName": "Wedding Photo Frames",
+		"appDescription": "Wedding & Anniversary Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.weddinganniversary.photo_frame"
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/Kne6Sm9JCIoPpIgSVywo7MYY1ME40P1w1T5LXyKXBQfeXSmv2ziMPjqo_wurYG7bDw=s180",
 		"appName": "Waterfall Photo Frames",
 		"appDescription": "Beautiful waterfalls backgrounds & frames collection",
 		"url": "https://play.google.com/store/apps/details?id=com.waterfall.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/CCcS8SL1MIBUfpZJ8sqgc7I3PxUEge_-mERvCKVfYiqihiRjaxAyA7X0vPooPPlFcVQ=s180-rw",
-		"appName": "Taj Mahal Photo Frame",
-		"appDescription": "Taj Mahal Romantic Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.tajmahal"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/ehmR_jR_NKrS6EKDcgvEEKgzxTDpG6S_pSqZEu84k4khCl2C5iis1YmEaInUxjUvszSD=s180",
-		"appName": "Nature Photo Frames",
-		"appDescription": "Beautify your pictures with nature photo frames",
-		"url": "https://play.google.com/store/apps/details?id=com.nature.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/3bIMSFvci3h_5IO6ZQ009gj5Z2umk3VTLQuZzgv1LjodHP2tRVFr0Ux6Xhh576z2dsB5=s180-rw",
-		"appName": "Sunset Photo Frames",
-		"appDescription": "Sunset & Evening Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.sunset.photo_frame"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/aAhy5oB1E164ff-OfPMc9nqR4fl0YRQZXRmRncxIOS5Dr4QLz3nXcgIVVZxYqKHnuU8=s180-rw",
@@ -114,21 +80,15 @@
 		"url": "https://play.google.com/store/apps/details?id=com.goodnight.photo_frame"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/5LtizgWViz-GanehHpnYPa_kcFJLNKZrhMPsoBQVRBHP0Ggztx9b55tROvSvCVj7DpI=s180-rw",
-		"appName": "Bubble Photo Frame",
-		"appDescription": "Water Bubble Free Photo Frame App",
-		"url": "https://play.google.com/store/apps/details?id=com.bubble.photo_frame"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/Ip7bkrce5_Dt7GnlGQTKcSGik3ihd31ZSNHkQ-BbI6jLNQ2tea6uBbPip2WjZpuYN1A=s180-rw",
-		"appName": "ইসলামিক ফটো ফ্রেম",
-		"appDescription": "ঈদ, জুম্মা, হজ্জ, আল্লাহ্, মসজিদ ফটো ফ্রেম",
+		"appName": "Islamic Photo Frame",
+		"appDescription": "Eid, Muharram, Hajj, Mosque, Jummah Frame.",
 		"url": "https://play.google.com/store/apps/details?id=com.Islamic.photo_frame"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/ZFuygJBuE89XxoYjPBHNw-a9Y5hrpoNWRoK4xprENBzxtFmLcmYR1rIUiRAMSWsTv_4=s180-rw",
 		"appName": "Book Photo Frame",
-		"appDescription": "Book Photo Frame - বই ফটো ফ্রম",
+		"appDescription": "Photo on Book Page",
 		"url": "https://play.google.com/store/apps/details?id=com.book.photo_frame"
 	},
 	{
@@ -149,42 +109,26 @@
 		"appDescription": "Garden & Green Nature photo editor",
 		"url": "https://play.google.com/store/apps/details?id=com.garden.photo_frame"
 	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/Lpo0Cw0lCBCz5nXUAzYIAp-8bOBcDNYzgwhslrjZy-OaPnawhxuhJ5jko4FckdeuPmrj=s180-rw",
-		"appName": "Beach Photo Frames",
-		"appDescription": "World famous beautiful beach photo collections",
-		"url": "https://play.google.com/store/apps/details?id=com.seabeach.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/HbbpAnZMOhRmqwtwHaYVd-LQH7xrq-XhCXJCqOWcStuni7oV8hxEnn9U_oZGbHanXw=s180-rw",
-		"appName": "Snowfall Photo Frame",
-		"appDescription": "Winter & Snowfall Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.snowfall.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/nP0wm8xQMxW4kamojrhJgcT7w8iH_2zO85WzP2iyT1hbG5IgeGdbEncPl5YC3nX9yCo=s180",
-		"appName": "3D Photo Frame",
-		"appDescription": "3D Photo Effect Editor App.",
-		"url": "https://play.google.com/store/apps/details?id=com.photo3dframe.photo_editor"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/4_Zmxglso_jDs3-IO6X4a3OGJcOxqYFNmJAh9mringO4TGTbNKkjSSlYDPrwVuJF-YM=s180",
-		"appName": "বাংলা স্ট্যাটাস ও উক্তি",
-		"appDescription": "সকল প্রকার বাংলা উক্তি, এসএমএস ও স্ট্যাটাস",
-		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
-	},
 	
-	{
-		"appIcon": "https://lh3.googleusercontent.com/G-FiWFuj5sD7IWJKUnEqIZRGD-8LToHeiiCgpzQTzjslfx_g6vvFe0Lgw-XvsUlYRA=s180-rw",
-		"appName": "Hall Photo Frames 3D",
-		"appDescription": "Hall & Home Interior Photo Editor",
-		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.hall"
-	},
+	
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/LCcEGcszrJQ3a6yesLaPLlVDC0z6n2D8LlD_ov6OCwVB7t6kCubYPmBErQuA1b0eDMo=s180-rw",
 		"appName": "Hoarding Photo Frames",
 		"appDescription": "Street Hoarding Photo Frames Editor",
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.hoarding"
+	},
+	
+	{
+		"appIcon": "https://lh3.googleusercontent.com/MDGtpmdFinDVZ0IXNXamoFX5HDPlmDGTwC9ooHecfLOXKGOZPmUcUrWJIeRB2KrwlGia=s180-rw",
+		"appName": "Bollywood Photo Frames",
+		"appDescription": "Bollywood Actors & Actresses Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.bollywood"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/CCcS8SL1MIBUfpZJ8sqgc7I3PxUEge_-mERvCKVfYiqihiRjaxAyA7X0vPooPPlFcVQ=s180-rw",
+		"appName": "TajMahal Photo Frame",
+		"appDescription": "Taj Mahal Photo Editor",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frame.tajmahal"
 	}
 	
 ]
