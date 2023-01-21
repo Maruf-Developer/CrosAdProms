@@ -97,6 +97,36 @@
 		"url": "https://play.google.com/store/apps/details?id=com.januaryrepublicday.photoframes"
 	},
 	{
+		"appIcon": "https://play-lh.googleusercontent.com/F1iGgiPKbTPRirP3JTzNtE-AudqI-OrzbiijFYUOBBBRO6Uy43ppUbDZ_zIn9pykeGc=s180",
+		"appName": "AITC Photo Frames",
+		"appDescription": "All India Trinamool Congress Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.aitcparty.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/PMgAlNzoa5CRfxfB9ZLBfOZZMYAYmuD4BMXxHp5zCL-XNXEnziJPhKUhbkS5FSvKXQ=s180",
+		"appName": "Congress Photo Frame",
+		"appDescription": "Indian National Congress photo frame",
+		"url": "https://play.google.com/store/apps/details?id=com.congressparty.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/drGbXk1oAEa2GodobxaJXHwBydQAYy3o9VNq4Td187A9i_jsd0EQo4BsaL2oHOgEag=s180",
+		"appName": "RJD Photo Frames",
+		"appDescription": "Rashtriya Janata Dal Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.rjdparty.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/_Es47HdiN6ICrFTAtbxVw4RZM1RREs5BgPCtmTIiA_hAn28PYj1TxIcGoPWa-fx9ZA=s180",
+		"appName": "BSP Photo Frames",
+		"appDescription": "Bahujan Samaj Party Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.bspparty.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/R6agSLV3J79VYNAOQ3cI_9UGUbIemG6fNvvvdFRSTcY4AMB4tqRamzyAbbC8nCV1MZs=s180",
+		"appName": "Samajwadi Party Frame",
+		"appDescription": "Indian Samajwadi Party Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.samajwadiparty.photoframes"
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/WYN9V7hzVTUKj4ft7QZD4YygR7-VUcSGEy9VYrUTKAze5s7yNIontjDu54U4AHvg388Q=s180",
 		"appName": "Love Photo Frames",
 		"appDescription": "Love photo frames for your romantic photos",
