@@ -37,7 +37,13 @@
 		"url": "https://play.google.com/store/apps/details?id=com.valentineweek.photo_frames"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/M6pd-7jXLO_C1VQ8HS6S3hcr9L5kiRVupu9wDfMBSZmnpqln4cMKRZqjBiIx44rBKlv7=s180",
+		"appIcon": "https://play-lh.googleusercontent.com/QJuu5u8LqfEOqADkcZxXOVVPqmzVFgZMbYUKXaRaJHLJCniFPf8k0x4x7XzAk7kVOt0=s180",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic day of India Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.republicjanuaryday.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/QJuu5u8LqfEOqADkcZxXOVVPqmzVFgZMbYUKXaRaJHLJCniFPf8k0x4x7XzAk7kVOt0=s180",
 		"appName": "26 January Photo Frame",
 		"appDescription": "Republic day of India Photo Frame",
 		"url": "https://play.google.com/store/apps/details?id=com.republicjanuaryday.photoframes"
