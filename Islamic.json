@@ -1,76 +1,51 @@
 [
-	
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/O8-pKuzXoXeqsBvxlUCst3dqh3m1ssZKZ5Pj3vadjUhQzeqzSCdZWHpjn2EOSKgDWpw=s180",
+		"appName": "Eid Photo Frame 2023",
+		"appDescription": "Eid Al Fitr Photo Frame 2023",
+		"url": "https://play.google.com/store/apps/details?id=com.eid.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/R_ZLWHT8xyBn9JmXDww0Eer4yeo3co4zOzSL33BRHljYhjOKcwu6Cf5pY8gG6S0zXFB7=s180",
+		"appName": "Eid Photo Frame 2023",
+		"appDescription": "Eid Al Fitr Photo Frame 2023",
+		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/bFuqO2aM7QimMl_qGrBsD7sIhCCDDUhSuim-ekxepAooevbERfd74v2Jqs123Th2Jc4=s180",
+		"appName": "Eid Photo Frame 2023",
+		"appDescription": "Eid Al Fitr Photo Frame 2023",
+		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/O8-pKuzXoXeqsBvxlUCst3dqh3m1ssZKZ5Pj3vadjUhQzeqzSCdZWHpjn2EOSKgDWpw=s180",
+		"appName": "Eid Photo Frame 2023",
+		"appDescription": "Eid Al Fitr Photo Frame 2023",
+		"url": "https://play.google.com/store/apps/details?id=com.eid.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/R_ZLWHT8xyBn9JmXDww0Eer4yeo3co4zOzSL33BRHljYhjOKcwu6Cf5pY8gG6S0zXFB7=s180",
+		"appName": "Eid Photo Frame 2023",
+		"appDescription": "Eid Al Fitr Photo Frame 2023",
+		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/bFuqO2aM7QimMl_qGrBsD7sIhCCDDUhSuim-ekxepAooevbERfd74v2Jqs123Th2Jc4=s180",
+		"appName": "Eid Photo Frame 2023",
+		"appDescription": "Eid Al Fitr Photo Frame 2023",
+		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
+	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/Y7TEaQhttpVMWhjiEq9x2OCdw8fUPApF-AUBeEvBZFklvQRQyC3UI3FEfHay9IllSQ=s180",
 		"appName": "বাংলাদেশী ফ্রেম - সকল দিবস",
-		"appDescription": "পহেলা বৈশাখ ও অন্যান্য সব দিবসের ফটো ফ্রেম",
+		"appDescription": "ঈদ ও অন্যান্য সব দিবসের ফটো ফ্রেম",
 		"url": "https://play.google.com/store/apps/details?id=com.bangladeshidibosh.photoframe"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/IdOeNIX4U09YA2xcM9mAvz8YsSeZ5axFZ3HwnQMb0noFH_7Q581SAVadKe3d8EVUvG72=s180",
-		"appName": "Ramadan Photo Frame 2023",
-		"appDescription": "Ramadan & Eid Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadan.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/VS71ZyKzj8Iid0WgWnjlQfdLgPtZjA_vP5ZKMpL_znLe3aN0fDfw0JT8g3n8eA2-Bqac=s180",
-		"appName": "Ramadan Photo Frame 2023",
-		"appDescription": "Ramadan & Eid Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadanmubaraka.photframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/bNMWaO3thyq7WrNvIPlaeqKQVDbhubbtGvm10hFL2yxpVBMIzIreuZTuu8Drw8LdYTU=s180",
-		"appName": "Ramadan Photo Frame 2023",
-		"appDescription": "Ramadan & Eid Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadanmubarak.photframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/O8-pKuzXoXeqsBvxlUCst3dqh3m1ssZKZ5Pj3vadjUhQzeqzSCdZWHpjn2EOSKgDWpw=s180",
-		"appName": "Eid Photo Frame 2023",
-		"appDescription": "Eid Al Fitr Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.eid.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/R_ZLWHT8xyBn9JmXDww0Eer4yeo3co4zOzSL33BRHljYhjOKcwu6Cf5pY8gG6S0zXFB7=s180",
-		"appName": "Eid Photo Frame 2023",
-		"appDescription": "Eid Al Fitr Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/bFuqO2aM7QimMl_qGrBsD7sIhCCDDUhSuim-ekxepAooevbERfd74v2Jqs123Th2Jc4=s180",
-		"appName": "Eid Photo Frame 2023",
-		"appDescription": "Eid Al Fitr Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/O8-pKuzXoXeqsBvxlUCst3dqh3m1ssZKZ5Pj3vadjUhQzeqzSCdZWHpjn2EOSKgDWpw=s180",
-		"appName": "Eid Photo Frame 2023",
-		"appDescription": "Eid Al Fitr Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.eid.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/R_ZLWHT8xyBn9JmXDww0Eer4yeo3co4zOzSL33BRHljYhjOKcwu6Cf5pY8gG6S0zXFB7=s180",
-		"appName": "Eid Photo Frame 2023",
-		"appDescription": "Eid Al Fitr Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/bFuqO2aM7QimMl_qGrBsD7sIhCCDDUhSuim-ekxepAooevbERfd74v2Jqs123Th2Jc4=s180",
-		"appName": "Eid Photo Frame 2023",
-		"appDescription": "Eid Al Fitr Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.eidmubarakan.photframs"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/MRs6o9r6tvTTl8YMWU_Pa1ePP3nhwoKgDd4j7rGuQ8LnQiu8ASDHftbdbdtKKJruvo4=s180",
 		"appName": "সকল দিবসের ফটো ফ্রেম",
-		"appDescription": "পহেলা বৈশাখ ও অন্যান্য সব দিবসের ফটো ফ্রেম",
+		"appDescription": "ঈদ ও অন্যান্য সব দিবসের ফটো ফ্রেম",
 		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/IdOeNIX4U09YA2xcM9mAvz8YsSeZ5axFZ3HwnQMb0noFH_7Q581SAVadKe3d8EVUvG72=s180",
-		"appName": "রমজান ফটো ফ্রেম ২০২৩",
-		"appDescription": "রমজান ও ঈদ ফটো ফ্রেম ২০২৩",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadan.photo_frame"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/O8-pKuzXoXeqsBvxlUCst3dqh3m1ssZKZ5Pj3vadjUhQzeqzSCdZWHpjn2EOSKgDWpw=s180",
@@ -143,54 +118,6 @@
 		"appName": "Ramadan Photo Frame 2023",
 		"appDescription": "Ramadan & Eid Photo Frame 2023",
 		"url": "https://play.google.com/store/apps/details?id=com.ramadan.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/VS71ZyKzj8Iid0WgWnjlQfdLgPtZjA_vP5ZKMpL_znLe3aN0fDfw0JT8g3n8eA2-Bqac=s180",
-		"appName": "Ramadan Photo Frame 2023",
-		"appDescription": "Ramadan & Eid Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadanmubaraka.photframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/bNMWaO3thyq7WrNvIPlaeqKQVDbhubbtGvm10hFL2yxpVBMIzIreuZTuu8Drw8LdYTU=s180",
-		"appName": "Ramadan Photo Frame 2023",
-		"appDescription": "Ramadan & Eid Photo Frame 2023",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadanmubarak.photframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/XjGvbF9c-Kncgg6wNfVUg8EPFoybq9ke8q1mQ34o7XcskP46nTybtlzMorTmKrGVXW8=s180",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "বাংলা নববর্ষ পহেলা বৈশাখ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.nobo.photoframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/vnr2b9LxUE1T7YKNo02Os-IATd5sgU_GyQ-_9C0PofTBCriOzI0eM1U8p56__QXJdfM=s180",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "বাংলা নববর্ষ পহেলা বৈশাখ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.nobo.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/L4Fk9ITqlWZVGGcpm1XIRTCZDQZOPXN_VROnpnnpHoVrXk6dAPSj3QWzPHM1bE9rQwU=s180",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "বাংলা নববর্ষ পহেলা বৈশাখ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.boishakh.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/XjGvbF9c-Kncgg6wNfVUg8EPFoybq9ke8q1mQ34o7XcskP46nTybtlzMorTmKrGVXW8=s180",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "বাংলা নববর্ষ পহেলা বৈশাখ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.nobo.photoframs"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/vnr2b9LxUE1T7YKNo02Os-IATd5sgU_GyQ-_9C0PofTBCriOzI0eM1U8p56__QXJdfM=s180",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "বাংলা নববর্ষ পহেলা বৈশাখ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.nobo.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/L4Fk9ITqlWZVGGcpm1XIRTCZDQZOPXN_VROnpnnpHoVrXk6dAPSj3QWzPHM1bE9rQwU=s180",
-		"appName": "পহেলা বৈশাখ ফটো ফ্রেম",
-		"appDescription": "বাংলা নববর্ষ পহেলা বৈশাখ ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.boishakh.photo_frame"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/O8-pKuzXoXeqsBvxlUCst3dqh3m1ssZKZ5Pj3vadjUhQzeqzSCdZWHpjn2EOSKgDWpw=s180",
