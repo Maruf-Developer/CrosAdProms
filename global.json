@@ -4,7 +4,8 @@
 		"appName": "সকল দিবসের ফটো ফ্রেম",
 		"appDescription": "নির্বাচন ও অন্যান্য সকল ফটো ফ্রেম",
 		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
-	},{
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/eWx0tb3mw9aWxWSN9Pg_JGhtPx8BZfXYtt08J1zpliVPSzHAI83JDLSeOLb9LRBGC6Wt=s180",
 		"appName": "26 January Photo Frame",
 		"appDescription": "26 January Republic day Photo Frame",
@@ -297,6 +298,6 @@
 		"appName": "Mobile Photo Frame",
 		"appDescription": "Mobile & Selfie Frame - Make your photo creative",
 		"url": "https://play.google.com/store/apps/details?id=com.selfiemobile.photoframes"
-	},
+	}
 	
 ]
