@@ -6,6 +6,18 @@
 		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
 	},
 	{
+		"appIcon": "https://play-lh.googleusercontent.com/ajGmAeFbNXVMzrlw1SUuqo3sJyTZyh6WJUHcBmxM11vgcz_tkPQkubqF8VqLl4Z8KnU=s180",
+		"appName": "সকল দিবসের ফটো ফ্রেম",
+		"appDescription": "বাংলাদেশি সকল দিবসের ফটো ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.bangladeshdibos.photoframe"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/bABEsu4MI30jjsTzoEE-gTXxF8g1bQqceidxwO0m76zIqF3rUddDdqn4HR5sdrSUGY8=s180",
+		"appName": "সকল দিবসের ফটো ফ্রেম",
+		"appDescription": "বাংলাদেশি সকল দিবসের ফটো ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.bangladeshidibos.photoframe"
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/Y3fMdyaOpymrnKFolsiUyA4vDvdFv3gX_pwp1Z4mL6VkhhwuC48HhrLCdXNrHEyRA9I=s180",
 		"appName": "All Photo Frame",
 		"appDescription": "Beautiful frames for almost all events",
@@ -60,24 +72,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.happynewyearframesphoto.photoframes"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/ajGmAeFbNXVMzrlw1SUuqo3sJyTZyh6WJUHcBmxM11vgcz_tkPQkubqF8VqLl4Z8KnU=s180",
-		"appName": "সকল দিবসের ফটো ফ্রেম",
-		"appDescription": "বাংলাদেশি সকল দিবসের ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.bangladeshdibos.photoframe"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/WImwl10PiYR_6_uuW5LcEf9kNgSgL3wKAP1Pxh1i8JgrCWM0VkDlk8W1HbSQzarF1jE=s180",
-		"appName": "সব দিবসের ফটো ফ্রেম",
-		"appDescription": "বাংলাদেশি সকল দিবসের ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.bangladeshidibosh.photoframe"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/yOpxAK02XGQFm4s3TdXr1uj6IgGvAMdH-4SPq3cn6Zxlf6Vpel7Knt19mKWCRMhAbelD=s180",
-		"appName": "সকল দিবসের ফটো ফ্রেম",
-		"appDescription": "বাংলাদেশি সকল দিবসের ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.bangladeshidibos.photoframe"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/R0m36jSMpiuiqAGy2mD31Whq8A5EUh6_C-uyfFzGBT9ygEhAYuEQzXUY3AEPqOvmUi8=s180",
 		"appName": "জয় বাংলা ফটো ফ্রেম",
 		"appDescription": "আওয়ামী লীগ ফটো ফ্রেম",
@@ -88,24 +82,6 @@
 		"appName": "খালেদা জিয়া ফটো ফ্রেম",
 		"appDescription": "খালেদা জিয়া ফটো ফ্রেম",
 		"url": "https://play.google.com/store/apps/details?id=com.khaledazia.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/ocgzWWt-bPkKbfmFbIsjuiquhRrnu9gr5WuRKIfWWLTnTt0-dArQ8qAmmg4eFqAOqr4O=s180",
-		"appName": "জিয়াউর রহমান ফটো ফ্রেম",
-		"appDescription": "জিয়াউর রহমান ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.ziaurrahman.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/x154wmgeIoWC0CSh5yf3bLzoV_JdXD0iAVvQsA6Y9Fn4CcOzH6mO3a3--GCHuj90Q20=s180",
-		"appName": "শেখ হাসিনা ফটো ফ্রেম",
-		"appDescription": "শেখ হাসিনা ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.sheikhhasina.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/HLuFwNxUzWn0enLZJ02nt-jySmVMAqOSteqcVkObwas9O9FwOql_EeiU26GoUEd-fBo=s180",
-		"appName": "শেখ মুজিব ফটো ফ্রেম",
-		"appDescription": "শেখ মুজিবুর রহমানের ফটো ফ্রেম",
-		"url": "https://play.google.com/store/apps/details?id=com.sheikhmujib.photoframes"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/O840m0lTo6ObIIJetOo6RqIsqFdDuI2rQvNdKIqh4vK1b_pnE_Z9UyvVLVG79G-TVpU=s180",
@@ -148,18 +124,6 @@
 		"appName": "Friendship Photo Frame",
 		"appDescription": "Friendship Day Photo Frame 2024",
 		"url": "https://play.google.com/store/apps/details?id=com.friendshipday.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/b7lhHmRGN09wlayqwtH_aMW7ovZ5naZwjt1z2wOt97o1j10RtrQP1VzbFcAXKRU7E7w=s180",
-		"appName": "শোক দিবস ফটো ফ্রেম",
-		"appDescription": "15 August Photo Frame 2024",
-		"url": "https://play.google.com/store/apps/details?id=com.shokdibosh.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/b7lhHmRGN09wlayqwtH_aMW7ovZ5naZwjt1z2wOt97o1j10RtrQP1VzbFcAXKRU7E7w=s180",
-		"appName": "শোক দিবস ফটো ফ্রেম",
-		"appDescription": "15 August Photo Frame 2024",
-		"url": "https://play.google.com/store/apps/details?id=com.shokdibosh.photoframes"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/SsEUhXzFNxBdKXsZ7nNfsirFBxkg3Uz-brHZj9M8SyD56GsyLBTEQnVFejVj2MYOH0Mz=s180",
