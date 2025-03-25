@@ -98,32 +98,20 @@
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/sCD9wDUfg07J2bcLYRmL302lvO0WoT8E0rIIldatoOKK3jXaZJ1oFotKWl0g0lJ-L9s=s180",
 		"appName": "Friendship Photo Frame",
-		"appDescription": "Friendship Day Photo Frame 2024",
+		"appDescription": "Friendship Day Photo Frame 2025",
 		"url": "https://play.google.com/store/apps/details?id=com.friendshipday.photo_frame"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/Scuvriq-_EDsvDXBrVln3q7LXtlDYT6aq_-xarECVFN2VlOeh3CFF8UoZDmfc4m6wQ=s180",
-		"appName": "Eid Photo Frame 2025",
-		"appDescription": "Eid Mubarak Photo Frame 2025",
-		"url": "https://play.google.com/store/apps/details?id=com.eid.photo_frame"
+		"appIcon": "https://play-lh.googleusercontent.com/d0oBpwXdnBoNe1w6NV9A0cp_T7FnGvTZWXXwt_9uuAIDvpMuY-ylL1etoG0SfjEaRrGa=s180",
+		"appName": "Mothers Day Photo Frame",
+		"appDescription": "Mother's Day Photo Frame 2025",
+		"url": "https://play.google.com/store/apps/details?id=com.happymotherday.photoframes"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/WKe-8e1pWALFcfEzPIZt2il5hTGJP222AW-dIapFkqRfIZ2_gzkKS4ZJlimofefEPhI=s180",
-		"appName": "Eid Photo Frame 2025",
-		"appDescription": "Eid Mubarak Photo Frame 2025",
-		"url": "https://play.google.com/store/apps/details?id=com.eiduladhaamubarak.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/ckJNATpDhYXRk6Fh_4ESbwWxJ_RmRTga7F2r7rguTzuHpKpEYiRXqhPjkDmFPXqlfQ=s180",
-		"appName": "Eid Photo Frame 2025",
-		"appDescription": "Eid Mubarak Photo Frame 2025",
-		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/VpIlYSJ1XPWE1sB-cSbcCCnE1nXjpumS32pXZvL3vvpj5co-jlDio_X0va014YtLww=s180",
-		"appName": "Eid Photo Frame 2025",
-		"appDescription": "Eid Mubarak Photo Frame 2025",
-		"url": "https://play.google.com/store/apps/details?id=com.mubarakaeid.photoframes"
+		"appIcon": "https://play-lh.googleusercontent.com/d0oBpwXdnBoNe1w6NV9A0cp_T7FnGvTZWXXwt_9uuAIDvpMuY-ylL1etoG0SfjEaRrGa=s180",
+		"appName": "Mothers Day Photo Frame",
+		"appDescription": "Mother's Day Photo Frame 2025",
+		"url": "https://play.google.com/store/apps/details?id=com.happymotherday.photoframes"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/Scuvriq-_EDsvDXBrVln3q7LXtlDYT6aq_-xarECVFN2VlOeh3CFF8UoZDmfc4m6wQ=s180",
@@ -150,16 +138,28 @@
 		"url": "https://play.google.com/store/apps/details?id=com.mubarakaeid.photoframes"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/IdOeNIX4U09YA2xcM9mAvz8YsSeZ5axFZ3HwnQMb0noFH_7Q581SAVadKe3d8EVUvG72=s180",
-		"appName": "Ramadan Photo Frame 2025",
-		"appDescription": "Ramadan & Eid Photo Frame 2025",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadan.photo_frame"
+		"appIcon": "https://play-lh.googleusercontent.com/Scuvriq-_EDsvDXBrVln3q7LXtlDYT6aq_-xarECVFN2VlOeh3CFF8UoZDmfc4m6wQ=s180",
+		"appName": "Eid Photo Frame 2025",
+		"appDescription": "Eid Mubarak Photo Frame 2025",
+		"url": "https://play.google.com/store/apps/details?id=com.eid.photo_frame"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/Tr6M-IKUGeAP5bmHOAppyeUs35lwtyjwYfktMrtTUOjhdMmUwezhXN1KqSV4WuOUCA=s180",
-		"appName": "Ramadan Photo Frame 2025",
-		"appDescription": "Ramadan & Eid Photo Frame 2025",
-		"url": "https://play.google.com/store/apps/details?id=com.ramadanmonth.photoframes"
+		"appIcon": "https://play-lh.googleusercontent.com/WKe-8e1pWALFcfEzPIZt2il5hTGJP222AW-dIapFkqRfIZ2_gzkKS4ZJlimofefEPhI=s180",
+		"appName": "Eid Photo Frame 2025",
+		"appDescription": "Eid Mubarak Photo Frame 2025",
+		"url": "https://play.google.com/store/apps/details?id=com.eiduladhaamubarak.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/ckJNATpDhYXRk6Fh_4ESbwWxJ_RmRTga7F2r7rguTzuHpKpEYiRXqhPjkDmFPXqlfQ=s180",
+		"appName": "Eid Photo Frame 2025",
+		"appDescription": "Eid Mubarak Photo Frame 2025",
+		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/VpIlYSJ1XPWE1sB-cSbcCCnE1nXjpumS32pXZvL3vvpj5co-jlDio_X0va014YtLww=s180",
+		"appName": "Eid Photo Frame 2025",
+		"appDescription": "Eid Mubarak Photo Frame 2025",
+		"url": "https://play.google.com/store/apps/details?id=com.mubarakaeid.photoframes"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/VS71ZyKzj8Iid0WgWnjlQfdLgPtZjA_vP5ZKMpL_znLe3aN0fDfw0JT8g3n8eA2-Bqac=s180",
@@ -184,11 +184,5 @@
 		"appName": "Eid Photo Frame 2025",
 		"appDescription": "Eid Mubarak Photo Frame 2025",
 		"url": "https://play.google.com/store/apps/details?id=com.mubarakaeid.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/SsEUhXzFNxBdKXsZ7nNfsirFBxkg3Uz-brHZj9M8SyD56GsyLBTEQnVFejVj2MYOH0Mz=s180",
-		"appName": "Mobile Photo Frame",
-		"appDescription": "Mobile & Selfie Photo Frame",
-		"url": "https://play.google.com/store/apps/details?id=com.mobileselfie.photoframes"
 	}
 ]
