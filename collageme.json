@@ -52,7 +52,20 @@
 		"appName": "Islamic Photo Frame",
 		"appDescription": "Eid, Ramadan and other Islamic Frame",
 		"url": "https://play.google.com/store/apps/details?id=com.Islamic.photo_frame"
-	},{
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/kIwhoLHJuflbT7IFmH3dV9euslxubsfPOhR_GQT8yTgdDyRjmmnbEWPSIVUug3LQOVk=s180",
+		"appName": "Hoarding Photo Frame",
+		"appDescription": "Street Hoarding Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.streethoarding.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/cK8tUoWM68ZIV7sUv7VHJELa1mUNaPX0URRLnM8Oq1vOeEZ3XuFB0Y5xG4EgmolP2w=s180",
+		"appName": "Mobile Photo Frame",
+		"appDescription": "Selfie & Mobile Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.mobileselfie.photoframes"
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/3o-t_L5bmFD5_eezBXFykuLMUhi1tT-NAfl3yTAdWfAztZy48AkueR5Qt5ZQwCKtgoNG=s180",
 		"appName": "15 August Photo Frame",
 		"appDescription": "15 AugustIndependence day Photo Frame",
@@ -75,7 +88,8 @@
 		"appName": "15 August Photo Frame",
 		"appDescription": "15 August Independence day Photo Frame",
 		"url": "https://play.google.com/store/apps/details?id=com.indepencedayyind.photoframes"
-	},{
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/e8tQSi4ThC_tD_ARWry681t6NpvlF0fySzeIq2UrZKt1WHPmOBN31EPlNTTDSdDLRw=s180",
 		"appName": "14 August Photo Frame",
 		"appDescription": "14 August Independence day Photo Frame",
@@ -98,17 +112,5 @@
 		"appName": "14 August Photo Frame",
 		"appDescription": "14 August Independence day Photo Frame",
 		"url": "https://play.google.com/store/apps/details?id=com.indepencedaypakist.photoframes"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/g7BponXihV_4jdNzSiKaK35JktGd2J05oXxeKhVAd-pNQThKn800EwMOgAlXnoPAtDk=s180",
-		"appName": "Eid Mubarak Photo Frame",
-		"appDescription": "Eid al Adha Photo Frame 2025",
-		"url": "https://play.google.com/store/apps/details?id=com.eid.photo_frame"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/3t09tAj1UUJDeWZHunMlbHtGJOW_tzACWINrulMjSPb4pXNdonBFqsLlAK-Gz1cGyw=s180",
-		"appName": "Eid Mubarak Photo Frame",
-		"appDescription": "Eid al Adha Photo Frame 2025",
-		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
 	}
 ]
