@@ -102,16 +102,16 @@
 		"url": "https://play.google.com/store/apps/details?id=com.sabz.pakistanphotoframe"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/E-SuB5pYexluRRf9Qvi-KiDX5hjfMtrbZ_PvCgmXVpw4OJx_yIs3GuTfwThBKzjwRtM=s180",
-		"appName": "Pakistan Photo Frame",
-		"appDescription": "Beautiful frames for almost all events",
-		"url": "https://play.google.com/store/apps/details?id=com.sabz.pakistanphotoframe"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/hEWAJsfo-W3QRryDsEAexhUDwxj46MEqKOsgQPy4iIjd_OKnTVBfsGtrJSfKKHKjh-Kc5mOgI5wijBqF45Atd64=s180",
 		"appName": "Birthday Photo Frame",
 		"appDescription": "Happy Birthday Photo Frame 2025",
 		"url": "https://play.google.com/store/apps/details?id=com.happybirthday.photoframeseditor"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/jRCJPt6UjGI64XHxC2C82jlueUtViaRQxsKgaW39IZN6w_lK8BVMusk0t7IqQ_Xsl0nZ=s180",
+		"appName": "Birthday Photo Frame",
+		"appDescription": "Happy Birthday Photo Frame 2025",
+		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.happybirthday"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/gU3A7SHM3VoS-D4bilF8OLSdGUP_ChSEWsKqe3SrNCR0UrAcH4HIBeuk1U08gxT5Aik=s180",
@@ -168,3 +168,4 @@
 		"url": "https://play.google.com/store/apps/details?id=com.friendshipday.photo_frame"
 	}
 ]
+
