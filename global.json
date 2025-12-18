@@ -49,7 +49,13 @@
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/Gb2uXyGeMtUsYjBtf5INGE8PvBiioVqOBJkj2s413lPVbuKRsQjx9JQIJ9mAgB5Qt0qTR3kq03-0pWjaJ63uJQ=s180",
-		"appName": "PosterBD - নির্বাচন পোষ্টার ও ফ্রেম",
+		"appName": "নির্বাচন পোষ্টার ও ফ্রেম",
+		"appDescription": "জাতীয় সংসদ নির্বাচনের পোষ্টার বানান",
+		"url": "https://play.google.com/store/apps/details?id=com.smdev.posterbd"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Gb2uXyGeMtUsYjBtf5INGE8PvBiioVqOBJkj2s413lPVbuKRsQjx9JQIJ9mAgB5Qt0qTR3kq03-0pWjaJ63uJQ=s180",
+		"appName": "নির্বাচন পোষ্টার ও ফ্রেম",
 		"appDescription": "জাতীয় সংসদ নির্বাচনের পোষ্টার বানান",
 		"url": "https://play.google.com/store/apps/details?id=com.smdev.posterbd"
 	},
@@ -192,6 +198,7 @@
 		"url": "https://play.google.com/store/apps/details?id=com.Islamic.photo_frame"
 	}
 ]
+
 
 
 
