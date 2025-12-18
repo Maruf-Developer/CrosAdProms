@@ -96,6 +96,24 @@
 		"url": "https://play.google.com/store/apps/details?id=com.mobileselfie.photoframes"
 	},
 	{
+		"appIcon": "https://play-lh.googleusercontent.com/4AmD2_A25KgdZjO1PKswTs0ulwfIWj3vWXVJ0HWhX1Kh9AaYC40XCX-rZ4vD9XEdLQ=s180",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic Day Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.smrepublicday.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/bvXjKEcxiXwtM8ima9R3S8i052jbr58iSGM3fg7wO4PDCF81_7I4ihvIg9MLwc648w=s180",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic Day Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.sabzrepublicday.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/eWx0tb3mw9aWxWSN9Pg_JGhtPx8BZfXYtt08J1zpliVPSzHAI83JDLSeOLb9LRBGC6Wt=s180",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic Day Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.smzrepublicday.photoframes"
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/hEWAJsfo-W3QRryDsEAexhUDwxj46MEqKOsgQPy4iIjd_OKnTVBfsGtrJSfKKHKjh-Kc5mOgI5wijBqF45Atd64=s180",
 		"appName": "Birthday Photo Frame",
 		"appDescription": "Happy Birthday Photo Frame",
@@ -108,5 +126,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.photo_frames.happybirthday"
 	}
 ]
+
 
 
