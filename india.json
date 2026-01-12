@@ -91,18 +91,6 @@
 		"url": "https://play.google.com/store/apps/details?id=com.valentineweek.photo_frames"
 	},
 	{
-		"appIcon": "https://play-lh.googleusercontent.com/7jUFG1oQbBunix890JzC8CvdSXytZRx5B6fsBvgI8Z3-NmMOA8t4_wdX4oSxACDvpA=s180",
-	    "appName": "ভালোবাসা দিবস ফটো ফ্রেম",
-		"appDescription": "Valentine, Rose, Propose, Kiss - all day in one app",
-		"url": "https://play.google.com/store/apps/details?id=com.valentineweek.photo_frames"
-	},
-	{
-		"appIcon": "https://play-lh.googleusercontent.com/CYoaeIQOfW9r_oIHFBTh4Wayk3D8Y6Wnf6vr-pEUc37vMNrdpXdak-OeK4U7FkqNxbUvf5Ol56ODUldToAxQshY=s180",
-		"appName": "ভালোবাসা দিবস ফটো ফ্রেম",
-		"appDescription": "Valentine, Rose, Propose, Kiss - all day in one app",
-		"url": "https://play.google.com/store/apps/details?id=com.happyvalentineday.photoframe"
-	},
-	{
 		"appIcon": "https://play-lh.googleusercontent.com/CYoaeIQOfW9r_oIHFBTh4Wayk3D8Y6Wnf6vr-pEUc37vMNrdpXdak-OeK4U7FkqNxbUvf5Ol56ODUldToAxQshY=s180",
 		"appName": "Valentine Day Photo Frame",
 		"appDescription": "Valentine, Rose, Propose, Kiss - all day in one app",
@@ -145,6 +133,7 @@
 		"url": "https://play.google.com/store/apps/details?id=com.Islamic.photo_frame"
 	}
 ]
+
 
 
 
