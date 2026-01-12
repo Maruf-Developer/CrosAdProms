@@ -1,10 +1,57 @@
 [
-
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/MRs6o9r6tvTTl8YMWU_Pa1ePP3nhwoKgDd4j7rGuQ8LnQiu8ASDHftbdbdtKKJruvo4=s180",
+		"appName": "সকল দিবসের ফটো ফ্রেম",
+		"appDescription": "বাংলাদেশি সকল দিবসের ফটো ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
+	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/Gb2uXyGeMtUsYjBtf5INGE8PvBiioVqOBJkj2s413lPVbuKRsQjx9JQIJ9mAgB5Qt0qTR3kq03-0pWjaJ63uJQ=s180",
 		"appName": "নির্বাচন পোষ্টার ও ফ্রেম",
 		"appDescription": "জাতীয় সংসদ নির্বাচনের পোষ্টার বানান",
 		"url": "https://play.google.com/store/apps/details?id=com.smdev.posterbd"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Gb2uXyGeMtUsYjBtf5INGE8PvBiioVqOBJkj2s413lPVbuKRsQjx9JQIJ9mAgB5Qt0qTR3kq03-0pWjaJ63uJQ=s180",
+		"appName": "নির্বাচন পোষ্টার ও ফ্রেম",
+		"appDescription": "জাতীয় সংসদ নির্বাচনের পোষ্টার বানান",
+		"url": "https://play.google.com/store/apps/details?id=com.smdev.posterbd"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Gb2uXyGeMtUsYjBtf5INGE8PvBiioVqOBJkj2s413lPVbuKRsQjx9JQIJ9mAgB5Qt0qTR3kq03-0pWjaJ63uJQ=s180",
+		"appName": "নির্বাচন পোষ্টার ও ফ্রেম",
+		"appDescription": "জাতীয় সংসদ নির্বাচনের পোষ্টার বানান",
+		"url": "https://play.google.com/store/apps/details?id=com.smdev.posterbd"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Gb2uXyGeMtUsYjBtf5INGE8PvBiioVqOBJkj2s413lPVbuKRsQjx9JQIJ9mAgB5Qt0qTR3kq03-0pWjaJ63uJQ=s180",
+		"appName": "PosterBD - নির্বাচন পোষ্টার ও ফ্রেম",
+		"appDescription": "জাতীয় সংসদ নির্বাচনের পোষ্টার বানান",
+		"url": "https://play.google.com/store/apps/details?id=com.smdev.posterbd"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/2T3moj2P7dBzVtJelrnLYHf6rg1mMLRPS6TpNNetXBq1DmOsra6bnpoPt34Qj-1c-3VehiWsSVo3qmVNXjtRkw=s180",
+		"appName": "Ramadan Photo Frame",
+		"appDescription": "Ramadan Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.ramadan.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/2T3moj2P7dBzVtJelrnLYHf6rg1mMLRPS6TpNNetXBq1DmOsra6bnpoPt34Qj-1c-3VehiWsSVo3qmVNXjtRkw=s180",
+		"appName": "Ramadan Photo Frame",
+		"appDescription": "Ramadan Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.ramadan.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Tr6M-IKUGeAP5bmHOAppyeUs35lwtyjwYfktMrtTUOjhdMmUwezhXN1KqSV4WuOUCA=s180",
+		"appName": "Ramadan Photo Frame",
+		"appDescription": "Ramadan Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.ramadanmonth.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/VS71ZyKzj8Iid0WgWnjlQfdLgPtZjA_vP5ZKMpL_znLe3aN0fDfw0JT8g3n8eA2-Bqac=s180",
+		"appName": "Ramadan Photo Frame",
+		"appDescription": "Ramadan Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.ramadanmubaraka.photframs"
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/M8SzuHqZKvyKKIB3Y4mCAd9ecgYpOHb2fWP4R0LS-bx0XKvc7CFaFkM0oj11on5o_haUSajmBikSz6PTB-I_8A=s180",
@@ -13,15 +60,57 @@
 		"url": "https://play.google.com/store/apps/details?id=com.eid.photo_frame"
 	},
 	{
+		"appIcon": "https://play-lh.googleusercontent.com/WKe-8e1pWALFcfEzPIZt2il5hTGJP222AW-dIapFkqRfIZ2_gzkKS4ZJlimofefEPhI=s180",
+		"appName": "Eid Mubarak Photo Frame",
+		"appDescription": "Eid Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.eiduladhaamubarak.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/pIxiEKSRzIAhtzS4x0lnf3zmpzsPTzCdc3r-W_x-0iZvJj2TfPtqX8v_irI7M95irkkJJRfztpUhYqiXWAY=s180",
+		"appName": "Eid Mubarak Photo Frame",
+		"appDescription": "Eid Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/1GSIz7KviGLAuSAMw7lKl_Yq87Bsjv8NN-5cPhGZGxP6t_FksixtKphzQ_o6_ICKLN23DShUbcBuCTrEuClrFvM=s180",
+		"appName": "New Year Photo Frame 2026",
+		"appDescription": "All Photo Frames including New Year 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.happynewyearphotoframeeditors.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Og8I9yxBnKSNgbzd4ih2kXXr3FOyuK5gT1QtcV8np3xHRRxoRb0jZwwVIZ-wlRcUZBI=s180",
+		"appName": "ফটো ফ্রেম এবং কোলাজ মেকার",
+		"appDescription": "PIP, Frame, Collage - Turn memories into masterpieces",
+		"url": "https://play.google.com/store/apps/details?id=com.collageme.studio"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Og8I9yxBnKSNgbzd4ih2kXXr3FOyuK5gT1QtcV8np3xHRRxoRb0jZwwVIZ-wlRcUZBI=s180",
+		"appName": "CollageMe: Frame & Collage",
+		"appDescription": "From collage to body curves — all in one app!",
+		"url": "https://play.google.com/store/apps/details?id=com.collageme.studio"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Pu_w82kaxmK67ZPOcR5JDjH-ocV2Hjne_8AiZvMvowM1-EDekc1kump1ht65N8H7GvjW=s180",
+		"appName": "Photo Frame 2026",
+		"appDescription": "New Year 2026 & Many More Photo Frames",
+		"url": "https://play.google.com/store/apps/details?id=com.smdevelopment.photoframe"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Y3fMdyaOpymrnKFolsiUyA4vDvdFv3gX_pwp1Z4mL6VkhhwuC48HhrLCdXNrHEyRA9I=s180",
+		"appName": "All Photo Frame 2026",
+		"appDescription": "New Year 2026 & Many More Photo Frames",
+		"url": "https://play.google.com/store/apps/details?id=com.sabz.allphotoframe"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/J2JOgjjSV_LUvkAzDtUbshppyEucPViL3h1n7VI8wunD2qBSS7_EpLmBwraalUNYbt4=s180",
+		"appName": "খালেদা জিয়া ফটো ফ্রেম",
+		"appDescription": "খালেদা জিয়া ফটো ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.khaledazia.photoframes"
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/hEWAJsfo-W3QRryDsEAexhUDwxj46MEqKOsgQPy4iIjd_OKnTVBfsGtrJSfKKHKjh-Kc5mOgI5wijBqF45Atd64=s180",
 		"appName": "জন্মদিন ফটো ফ্রেম",
 		"appDescription": "জন্মদিনের শুভেচ্ছা ফটো ফ্রেম ও পোষ্টার",
 		"url": "https://play.google.com/store/apps/details?id=com.happybirthday.photoframeseditor"
 	}
 ]
-
-
-
-
-
-
