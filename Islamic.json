@@ -1,5 +1,22 @@
 [
-
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/MRs6o9r6tvTTl8YMWU_Pa1ePP3nhwoKgDd4j7rGuQ8LnQiu8ASDHftbdbdtKKJruvo4=s180",
+		"appName": "সকল দিবসের ফটো ফ্রেম",
+		"appDescription": "বাংলাদেশি সকল দিবসের ফটো ফ্রেম",
+		"url": "https://play.google.com/store/apps/details?id=com.SMdev.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/U-zwlgTHwxFwXPNaOMMIdSx-8GV2P1Gnwo3jkSeezsUulqQbp0as_XLlJ4hFPB9Cc0k=s180",
+		"appName": "সকল ধরনের স্ট্যাটাস ও উক্তি",
+		"appDescription": "সকল ধরনের বাংলা স্ট্যাটাস ও উক্তি",
+		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Gb2uXyGeMtUsYjBtf5INGE8PvBiioVqOBJkj2s413lPVbuKRsQjx9JQIJ9mAgB5Qt0qTR3kq03-0pWjaJ63uJQ=s180",
+		"appName": "PosterBD - নির্বাচন পোষ্টার ও ফ্রেম",
+		"appDescription": "জাতীয় সংসদ নির্বাচনের পোষ্টার বানান",
+		"url": "https://play.google.com/store/apps/details?id=com.smdev.posterbd"
+	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/Gb2uXyGeMtUsYjBtf5INGE8PvBiioVqOBJkj2s413lPVbuKRsQjx9JQIJ9mAgB5Qt0qTR3kq03-0pWjaJ63uJQ=s180",
 		"appName": "PosterBD - নির্বাচন পোষ্টার ও ফ্রেম",
@@ -11,9 +28,164 @@
 		"appName": "26 January Photo Frame",
 		"appDescription": "Republic Day Photo Frame 2026",
 		"url": "https://play.google.com/store/apps/details?id=com.smrepublicday.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/bvXjKEcxiXwtM8ima9R3S8i052jbr58iSGM3fg7wO4PDCF81_7I4ihvIg9MLwc648w=s180",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic Day Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.sabzrepublicday.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/EQf56pFBKN7c0c6n7ojXFrbU_tv5X347wpq7IE-R31HynXIIcrMYCWqzfbjdrC6dfO5Rdt-UsQWKMQCIBs-2=s180",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic Day Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.smzrepublicday.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/4AmD2_A25KgdZjO1PKswTs0ulwfIWj3vWXVJ0HWhX1Kh9AaYC40XCX-rZ4vD9XEdLQ=s180",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic Day Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.smrepublicday.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/bvXjKEcxiXwtM8ima9R3S8i052jbr58iSGM3fg7wO4PDCF81_7I4ihvIg9MLwc648w=s180",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic Day Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.sabzrepublicday.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/EQf56pFBKN7c0c6n7ojXFrbU_tv5X347wpq7IE-R31HynXIIcrMYCWqzfbjdrC6dfO5Rdt-UsQWKMQCIBs-2=s180",
+		"appName": "26 January Photo Frame",
+		"appDescription": "Republic Day Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.smzrepublicday.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/2T3moj2P7dBzVtJelrnLYHf6rg1mMLRPS6TpNNetXBq1DmOsra6bnpoPt34Qj-1c-3VehiWsSVo3qmVNXjtRkw=s180",
+		"appName": "Ramadan Photo Frame",
+		"appDescription": "Ramadan Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.ramadan.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/2T3moj2P7dBzVtJelrnLYHf6rg1mMLRPS6TpNNetXBq1DmOsra6bnpoPt34Qj-1c-3VehiWsSVo3qmVNXjtRkw=s180",
+		"appName": "Ramadan Photo Frame",
+		"appDescription": "Ramadan Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.ramadan.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Tr6M-IKUGeAP5bmHOAppyeUs35lwtyjwYfktMrtTUOjhdMmUwezhXN1KqSV4WuOUCA=s180",
+		"appName": "Ramadan Photo Frame",
+		"appDescription": "Ramadan Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.ramadanmonth.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/VS71ZyKzj8Iid0WgWnjlQfdLgPtZjA_vP5ZKMpL_znLe3aN0fDfw0JT8g3n8eA2-Bqac=s180",
+		"appName": "Ramadan Photo Frame",
+		"appDescription": "Ramadan Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.ramadanmubaraka.photframs"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/M8SzuHqZKvyKKIB3Y4mCAd9ecgYpOHb2fWP4R0LS-bx0XKvc7CFaFkM0oj11on5o_haUSajmBikSz6PTB-I_8A=s180",
+		"appName": "Eid Mubarak Photo Frame",
+		"appDescription": "Eid Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.eid.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/WKe-8e1pWALFcfEzPIZt2il5hTGJP222AW-dIapFkqRfIZ2_gzkKS4ZJlimofefEPhI=s180",
+		"appName": "Eid Mubarak Photo Frame",
+		"appDescription": "Eid Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.eiduladhaamubarak.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/pIxiEKSRzIAhtzS4x0lnf3zmpzsPTzCdc3r-W_x-0iZvJj2TfPtqX8v_irI7M95irkkJJRfztpUhYqiXWAY=s180",
+		"appName": "Eid Mubarak Photo Frame",
+		"appDescription": "Eid Mubarak Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.adha.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Og8I9yxBnKSNgbzd4ih2kXXr3FOyuK5gT1QtcV8np3xHRRxoRb0jZwwVIZ-wlRcUZBI=s180",
+		"appName": "Photo Frame & Collage Maker",
+		"appDescription": "PIP, Frame, Collage - Turn memories into masterpieces",
+		"url": "https://play.google.com/store/apps/details?id=com.collageme.studio"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Og8I9yxBnKSNgbzd4ih2kXXr3FOyuK5gT1QtcV8np3xHRRxoRb0jZwwVIZ-wlRcUZBI=s180",
+		"appName": "Photo Frame & Collage Maker",
+		"appDescription": "PIP, Frame, Collage - Turn memories into masterpieces",
+		"url": "https://play.google.com/store/apps/details?id=com.collageme.studio"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Og8I9yxBnKSNgbzd4ih2kXXr3FOyuK5gT1QtcV8np3xHRRxoRb0jZwwVIZ-wlRcUZBI=s180",
+		"appName": "Photo Frame & Collage Maker",
+		"appDescription": "PIP, Frame, Collage - Turn memories into masterpieces",
+		"url": "https://play.google.com/store/apps/details?id=com.collageme.studio"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Og8I9yxBnKSNgbzd4ih2kXXr3FOyuK5gT1QtcV8np3xHRRxoRb0jZwwVIZ-wlRcUZBI=s180",
+		"appName": "ফটো ফ্রেম এবং কোলাজ মেকার",
+		"appDescription": "PIP, Frame, Collage - Turn memories into masterpieces",
+		"url": "https://play.google.com/store/apps/details?id=com.collageme.studio"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Pu_w82kaxmK67ZPOcR5JDjH-ocV2Hjne_8AiZvMvowM1-EDekc1kump1ht65N8H7GvjW=s180",
+		"appName": "Photo Frame 2026",
+		"appDescription": "Beautiful frames for almost all events",
+		"url": "https://play.google.com/store/apps/details?id=com.smdevelopment.photoframe"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/Y3fMdyaOpymrnKFolsiUyA4vDvdFv3gX_pwp1Z4mL6VkhhwuC48HhrLCdXNrHEyRA9I=s180",
+		"appName": "All Photo Frame",
+		"appDescription": "Beautiful frames for almost all events",
+		"url": "https://play.google.com/store/apps/details?id=com.sabz.allphotoframe"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/E-SuB5pYexluRRf9Qvi-KiDX5hjfMtrbZ_PvCgmXVpw4OJx_yIs3GuTfwThBKzjwRtM=s180",
+		"appName": "Pakistan Photo Frame",
+		"appDescription": "Beautiful frames for almost all events",
+		"url": "https://play.google.com/store/apps/details?id=com.sabz.pakistanphotoframe"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/gU3A7SHM3VoS-D4bilF8OLSdGUP_ChSEWsKqe3SrNCR0UrAcH4HIBeuk1U08gxT5Aik=s180",
+		"appName": "Islamic Photo Frame",
+		"appDescription": "Eid, Ramadan and other Islamic Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.Islamic.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/wgi8QMA9CyZvBKREUSFBCuX2emXrC-0hKu3nkkCLjLxgUFc5Tl-t-ksSbWX34dSwB1c=s180",
+		"appName": "Good Morning Photo Frame",
+		"appDescription": "Good Morning Wishing Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.goodmorning.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/v8t1mu3GfLwi1c4NlGCRdnzuXTDVcJSYP9qVDY1hXnLyINh1YKJ8DTr-_JAmY1o7H2E=s180",
+		"appName": "Good Night Photo Frame",
+		"appDescription": "Good Night Wishing Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.goodnight.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/g7BponXihV_4jdNzSiKaK35JktGd2J05oXxeKhVAd-pNQThKn800EwMOgAlXnoPAtDk=s180",
+		"appName": "Eid Mubarak Photo Frame",
+		"appDescription": "Eid al Adha Photo Frame 2026",
+		"url": "https://play.google.com/store/apps/details?id=com.eid.photo_frame"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/kIwhoLHJuflbT7IFmH3dV9euslxubsfPOhR_GQT8yTgdDyRjmmnbEWPSIVUug3LQOVk=s180",
+		"appName": "Hoarding Photo Frame",
+		"appDescription": "Street Hoarding Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.streethoarding.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/cK8tUoWM68ZIV7sUv7VHJELa1mUNaPX0URRLnM8Oq1vOeEZ3XuFB0Y5xG4EgmolP2w=s180",
+		"appName": "Mobile Photo Frame",
+		"appDescription": "Selfie & Mobile Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.mobileselfie.photoframes"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/sCD9wDUfg07J2bcLYRmL302lvO0WoT8E0rIIldatoOKK3jXaZJ1oFotKWl0g0lJ-L9s=s180",
+		"appName": "Friendship Photo Frame",
+		"appDescription": "Friendship Day Photo Frame",
+		"url": "https://play.google.com/store/apps/details?id=com.friendshipday.photo_frame"
 	}
 ]
-
 
 
 
