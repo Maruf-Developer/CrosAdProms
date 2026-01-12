@@ -30,6 +30,24 @@
 		"url": "https://play.google.com/store/apps/details?id=com.smdev.posterbd"
 	},
 	{
+		"appIcon": "https://play-lh.googleusercontent.com/7jUFG1oQbBunix890JzC8CvdSXytZRx5B6fsBvgI8Z3-NmMOA8t4_wdX4oSxACDvpA=s180",
+	    "appName": "ভালোবাসা দিবস ফটো ফ্রেম",
+		"appDescription": "Valentine, Rose, Propose, Kiss - all day in one app",
+		"url": "https://play.google.com/store/apps/details?id=com.valentineweek.photo_frames"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/CYoaeIQOfW9r_oIHFBTh4Wayk3D8Y6Wnf6vr-pEUc37vMNrdpXdak-OeK4U7FkqNxbUvf5Ol56ODUldToAxQshY=s180",
+		"appName": "ভালোবাসা দিবস ফটো ফ্রেম",
+		"appDescription": "Valentine, Rose, Propose, Kiss - all day in one app",
+		"url": "https://play.google.com/store/apps/details?id=com.happyvalentineday.photoframe"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/4VP6lvNI6_0x-PZl9X5vHYPHLiO7HhqF1qtJqcZ2R5Yj7fqNRcH8ejKsJCopcpJJAIE=s180",
+		"appName": "Valentine Day Photo Frame",
+		"appDescription": "Valentine, Rose, Propose, Kiss - all day in one app",
+		"url": "https://play.google.com/store/apps/details?id=com.valentine_week.photo_frames"
+	},
+	{
 		"appIcon": "https://play-lh.googleusercontent.com/2T3moj2P7dBzVtJelrnLYHf6rg1mMLRPS6TpNNetXBq1DmOsra6bnpoPt34Qj-1c-3VehiWsSVo3qmVNXjtRkw=s180",
 		"appName": "Ramadan Photo Frame",
 		"appDescription": "Ramadan Mubarak Photo Frame 2026",
@@ -114,3 +132,4 @@
 		"url": "https://play.google.com/store/apps/details?id=com.happybirthday.photoframeseditor"
 	}
 ]
+
