@@ -7,6 +7,12 @@
 	},
 	{
 		"appIcon": "https://play-lh.googleusercontent.com/U-zwlgTHwxFwXPNaOMMIdSx-8GV2P1Gnwo3jkSeezsUulqQbp0as_XLlJ4hFPB9Cc0k=s180",
+		"appName": "সকল ধরনের স্ট্যাটাস ও উক্তি",
+		"appDescription": "সকল ধরনের বাংলা স্ট্যাটাস ও উক্তি",
+		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/U-zwlgTHwxFwXPNaOMMIdSx-8GV2P1Gnwo3jkSeezsUulqQbp0as_XLlJ4hFPB9Cc0k=s180",
 		"appName": "বাংলা স্ট্যাটাস ও এসএমএস",
 		"appDescription": "সকল ধরনের স্ট্যাটাস ও এসএমএস",
 		"url": "https://play.google.com/store/apps/details?id=com.status_sms.bangla"
@@ -120,6 +126,7 @@
 		"url": "https://play.google.com/store/apps/details?id=com.khaledazia.photoframes"
 	}
 ]
+
 
 
 
